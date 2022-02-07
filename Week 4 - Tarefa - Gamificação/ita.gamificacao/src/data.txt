@@ -1,0 +1,8 @@
+guerra;20;estrela
+guerra;5;estrela
+fernandes;10;estrela
+fernandes;9;estrela
+mula;0;estrela
+rodrigo;10;estrela
+rodrigo;7;estrela
+guerra;20;moeda
